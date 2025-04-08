@@ -1,0 +1,67 @@
+[
+    {
+      "taskName": "Создать компонент Segmented Control",
+      "description": "Реализовать компонент с кнопками для оценки. Добавить возможность переключения между значениями.",
+      "assigneeId": 1,
+      "dueDate": "2025-04-10",
+      "priorityId": 2,
+      "statusId": 1
+    },
+    {
+      "taskName": "Настроить Storybook",
+      "description": "Настроить Storybook с нуля для React проекта с использованием TypeScript.",
+      "assigneeId": 2,
+      "dueDate": "2025-04-12",
+      "priorityId": 1,
+      "statusId": 3
+    },
+    {
+      "taskName": "Создать компонент кнопки",
+      "description": "Создать стилизованный компонент кнопки с использованием Styled-components.",
+      "assigneeId": 3,
+      "dueDate": "2025-04-11",
+      "priorityId": 0,
+      "statusId": 1
+    },
+    {
+      "taskName": "Реализовать компонент карточки",
+      "description": "Создать компонент карточки задачи с возможностью изменения статуса и редактирования описания.",
+      "assigneeId": 1,
+      "dueDate": "2025-04-15",
+      "priorityId": 2,
+      "statusId": 0
+    },
+    {
+      "taskName": "Создать страницу дашборда",
+      "description": "Сверстать страницу дашборда с отображением списка задач.",
+      "assigneeId": 3,
+      "dueDate": "2025-04-13",
+      "priorityId": 1,
+      "statusId": 0
+    },
+    {
+      "taskName": "Настроить глобальные стили",
+      "description": "Создать файл со стилями и подключить его к проекту.",
+      "assigneeId": 2,
+      "dueDate": "2025-04-14",
+      "priorityId": 0,
+      "statusId": 2
+    },
+    {
+      "taskName": "Создать компонент таблицы",
+      "description": "Сделать компонент таблицы для отображения задач с возможностью сортировки и фильтрации.",
+      "assigneeId": 3,
+      "dueDate": "2025-04-16",
+      "priorityId": 2,
+      "statusId": 0
+    },
+    {
+      "taskName": "Реализовать переключение тем",
+      "description": "Добавить возможность переключения между светлой и тёмной темами.",
+      "assigneeId": 2,
+      "dueDate": "2025-04-18",
+      "priorityId": 1,
+      "statusId": 1
+    }
+  ]
+  
